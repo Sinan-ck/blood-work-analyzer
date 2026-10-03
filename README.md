@@ -3,7 +3,11 @@
 A Streamlit app that reads a blood test report and gives a plain-language
 health summary and a suggested diet plan, using a local Ollama model (llama3.2).
 
-![Blood Work Analyzer](screenshot.png)
+## Screenshots
+
+![Demo 1](demo2.png)
+![Demo 2](demo3.png)
+![Demo 3](demo4.png)
 
 ## Run it
 ```bash
