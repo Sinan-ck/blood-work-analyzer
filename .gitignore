@@ -1,0 +1,4 @@
+blood_work.txt
+__pycache__/
+.venv/
+.DS_Store
